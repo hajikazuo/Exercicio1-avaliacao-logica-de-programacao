@@ -10,6 +10,7 @@ namespace Exercicio1_avaliacao_logica_de_programacao
     {
         static void Main(string[] args)
         {
+            //Nilton Kazuo Hasegawa Haji RA:6322507
             //1 - Faça um programa que receba o nome do aluno, nota de trabalho, nota da prova 1 e nota da prova 2. Calcule a média  final (média simples) e apresente o conceito obtido seguindo a seguinte formula:
 
             //O conceito da será calculado da seguinte forma:
